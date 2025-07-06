@@ -1,0 +1,12 @@
+.{
+    .name = .c3lsp,
+    .version = "0.0.0",
+    .minimum_zig_version = "0.14.1",
+    .fingerprint = 0xeff4c482c004f596,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
